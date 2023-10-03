@@ -2,10 +2,10 @@
 # Code owners are automatically requested for review when someone opens a PR that modifies code that they own
 # Each line is a file pattern followed by one or more owners. Learn more here:
 # https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-code-owners
-
+https://github.com/ethereum/ethereum-org-website/blob/cea64622b5f3aa7ab9792d2ad3747901d47c3903/.github/CODEOWNERS#L7
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
 *       @samajammin @wackerow @corwintines @pettinarip @minimalsm @jmcook1186 @nhsz
-
+0x16D267ab31F7F18051C9115CC8F9ca066cD82904
 # Owners of specific files
 /src/data/consensus-bounty-hunters.csv @djrtwo @asanso @fredriksvantes
